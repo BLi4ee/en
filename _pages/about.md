@@ -48,7 +48,7 @@ My research interests include:
 
 ## 📇 Patent
 
-- Zhang Lin, `Li Boya`, Ma Song. A Single-Channel Blind Source Separation Method for Interference Suppression Based on Large Language Models.
+- Lin Zhang , `Boya Li`, Song Ma. A Single-Channel Blind Source Separation Method for Interference Suppression Based on Large Language Models.
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -65,12 +65,16 @@ My research interests include:
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *June 2023* Awarded Beijing Outstanding Graduate
+- *December 2022* Awarded Beijing "Three Good Student" Award
+- *December 2022* Awarded National Scholarship [[News]](https://www.btbu.edu.cn/news/zhxw/99a91ff6e441476da1173ec5e567de93.htm)
+- *December 2021* Awarded China Telecom Scholarship
+- *November 2022* Awarded Second Prize in the 37th National Physics Competition for College Students in Some Regions
 
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
