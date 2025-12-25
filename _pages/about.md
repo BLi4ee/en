@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I am Li Boya, currently pursuing a Master's degree at the State Key Laboratory of Communication Anti-Interference at the University of Electronic Science and Technology of China. In 2019, I graduated from the School of Artificial Intelligence at Beijing Technology and Business University.
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include:
+- Wireless communications
+- Deep reinforcement learning
+- Unmanned aerial vehicles
 
 # 📖 Educations
 - *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, Master's (Recommended for Admission)
