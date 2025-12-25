@@ -72,6 +72,15 @@ My research interests include:
 - *December 2021* Awarded China Telecom Scholarship
 - *November 2022* Awarded Second Prize in the 37th National Physics Competition for College Students in Some Regions
 
+# 🔆 Volunteer Services
+
+- *March 2022* Beijing 2022 Winter Paralympic Games Volunteer Service: 104h
+- *February 2022* Beijing 2022 Winter Olympic Games Volunteer Service: 150h
+- *October 2021* Beijing 2021 World Wheelchair Curling Championship Volunteer Service: 141.5h
+- *October 2021* Flash Mob Event Celebrating the 100th Anniversary of the Communist Party of China: 4.5h
+- *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China: 1h
+- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling: 69.5h
+
 
 
 <!-- # 💬 Invited Talks
