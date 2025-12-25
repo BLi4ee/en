@@ -17,12 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Boya Li, currently pursuing a Master's degree at the State Key Laboratory of Communication Anti-Interference at the University of Electronic Science and Technology of China. In 2019, I graduated from the School of Artificial Intelligence at Beijing Technology and Business University.
+Hi, I am Boya Li, a Master's student at the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Associate Professor [Zhang Lin](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I graduated from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU) in 2019.
+
 
 My research interests include:
 - Wireless communications
+- Semantic-aware Communications
+- Task-oriented Communications
 - Deep reinforcement learning
-- Unmanned aerial vehicles
+- Large Language Models
+
 
 # 📖 Educations
 - *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, Master's (Recommended for Admission)
@@ -30,8 +34,8 @@ My research interests include:
 
 
 # 🔥 News
-- *November 2022*: 🎉🎉 I began studying the "Linear Algebra" course taught by Professor MIT Strang Gilbert. Progress: Lesson 21/34 [Watch on Bilibili](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
-- *September 2025*: 🎉🎉 I began studying the "Generative Artificial Intelligence" course taught by Professor Li Hongyi at National Taiwan University. Progress: Lesson 11/18 [Watch on Bilibili](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
+- *November 2022*: I began studying the "Linear Algebra" course taught by Professor MIT Strang Gilbert. Progress: Lesson 21/34 [Watch on Bilibili](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
+- *September 2025*: I began studying the "Generative Artificial Intelligence" course taught by Professor Li Hongyi at National Taiwan University. Progress: Lesson 11/18 [Watch on Bilibili](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
 
 
 
