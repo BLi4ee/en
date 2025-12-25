@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Li Boya, currently pursuing a Master's degree at the State Key Laboratory of Communication Anti-Interference at the University of Electronic Science and Technology of China. In 2019, I graduated from the School of Artificial Intelligence at Beijing Technology and Business University.
+Hello, I am Boya Li, currently pursuing a Master's degree at the State Key Laboratory of Communication Anti-Interference at the University of Electronic Science and Technology of China. In 2019, I graduated from the School of Artificial Intelligence at Beijing Technology and Business University.
 
 My research interests include:
 - Wireless communications
