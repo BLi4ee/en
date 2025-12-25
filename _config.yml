@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Boya Li"
+description              : "Boya Li's Personal Website"
 repository               : "BLi4ee.github.io"
 baseurl                  : "/en"
 google_scholar_stats_use_cdn : true
@@ -22,23 +22,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Boya Li"
+  avatar           : "images/profile1.png"
+  bio              : "Boya Li's Personal Website"
+  location         : "Chengdu, China"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  email            : "liberty.in.ee@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Boya-Li-29"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "BLi4ee"
   google_plus      :
   keybase          :
   instagram        :
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-4180-5657"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
