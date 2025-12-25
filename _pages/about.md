@@ -33,6 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+## 📝 Journal
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CL 2025</div><img src='images/CL2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 </div>
 </div>
+
+## 📇 Patent
 
 - Zhang Lin, `Li Boya`, Ma Song. A Single-Channel Blind Source Separation Method for Interference Suppression Based on Large Language Models.
 
