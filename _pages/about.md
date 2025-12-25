@@ -72,7 +72,7 @@ My research interests include:
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *June 2023* Awarded Beijing Outstanding Graduate
 - *December 2022* Awarded Beijing "Three Good Student" Award
 - *December 2022* Awarded National Scholarship [[News]](https://www.btbu.edu.cn/news/zhxw/99a91ff6e441476da1173ec5e567de93.htm)
@@ -85,7 +85,7 @@ My research interests include:
 - *October 2021* Beijing 2021 World Wheelchair Curling Championship Volunteer Service: 141.5h
 - *October 2021* Flash Mob Event Celebrating the 100th Anniversary of the Communist Party of China: 4.5h
 - *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China: 1h
-- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling: 69.5h
+- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling: 69.5h -->
 
 
 
