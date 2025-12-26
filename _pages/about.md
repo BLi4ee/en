@@ -84,12 +84,11 @@ My research interests include:
 
 <span class='anchor' id='-volunteer-services'></span>
 # 🔆 Volunteer Services
-- *March 2022* Beijing 2022 Winter Paralympic Games Volunteer Service: 104h
-- *February 2022* Beijing 2022 Winter Olympic Games Volunteer Service: 150h
-- *October 2021* Beijing 2021 World Wheelchair Curling Championship Volunteer Service: 141.5h
-- *October 2021* Flash Mob Event Celebrating the 100th Anniversary of the Communist Party of China: 4.5h
-- *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China: 1h
-- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling: 69.5h
+- *March 2022* Beijing 2022 Winter Olympic and Paralympic Games Volunteer Service (Served at the National Aquatics Center, Market Development): 254h
+- *October 2021* Beijing 2021 World Wheelchair Curling Championship Volunteer Service (Served at the National Aquatics Center, Market Development): 141.5h
+- *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China (Served at Chaoyang Park, Remote Assembly): 1h
+- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center): 69.5h
+
 
 
 <!-- <span class='anchor' id='invited-talks'></span>
