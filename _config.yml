@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Boya Li"
-  avatar           : "images/profile1.png"
+  avatar           : "images/profile3.png"
   bio              : "University of Electronic Science and Technology of China <br> National Key Laboratory of Wireless Communications  <br> Information and Communications Engineering"
   location         : "Chengdu, China"
   employer         : 
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lboya-li-983117391"
+  linkedin         : "https://www.linkedin.com/in/boya-li-983117391/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0003-4180-5657"
   pinterest        :
