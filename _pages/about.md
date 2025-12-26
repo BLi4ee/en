@@ -94,7 +94,7 @@ My research interests include:
 <span class='anchor' id='-interests-and-hobbies'></span>
 # 🔆 Interests & Hobbies
 
-## 🎿 Sports & Outdoor
+## 🎿 Sports and Outdoor
 - **Billiards** (since 2024)
 - **Badminton** (since 2022)
 - **Hiking** (since 2019)
