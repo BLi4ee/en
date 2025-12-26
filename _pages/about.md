@@ -89,7 +89,58 @@ My research interests include:
 - *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China (Served at Chaoyang Park, Remote Assembly): 1h
 - *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center): 69.5h
 
+<span class='anchor' id='-interests-and-hobbies'></span>
+# 🔆 Interests & Hobbies
 
+## 🎿 Sports & Outdoor
+- **🎱Billiards** (since 2024)
+- **🏸Badminton** (since 2022)
+- **🧗Climbing** (since 2019)
+- **🏃Jogging** (since 2017) - 5km PB 26:24, 10km PB 57:22
+
+## 📚 Reading
+### In Progress
+- "Walden" - Henry David Thoreau
+- "The Gospel According to Jesus Christ" - José Saramago
+- "The Great Gatsby" - F. Scott Fitzgerald
+
+### Read
+- "We Three" - Yang Jiang
+- "My Altay" - Li Juan
+- "Fortress Besieged" - Qian Zhongshu
+- "Educated" - Tara Westover
+- "Old Days in the Southern Part of the City" - Lin Haiyin
+- "Feminism from Scratch" - Chizuko Ueno
+- "The Moon and Sixpence" - W. Somerset Maugham
+- "Snow and Ashes" - Zhang Tianyi
+- "Woman's Victory" - Yu Hua
+- "Blindness" - José Saramago
+- "Madame Bovary" - Gustave Flaubert
+- "Those Who Leave and Those Who Stay" - Elena Ferrante
+- "Flowers for Algernon" - Daniel Keyes
+- "The Story of a New Name" - Elena Ferrante
+- "The Story of the Lost Child" - Elena Ferrante
+- "Stories of the Sahara" - Sanmao
+- "The Little Prince" - Antoine de Saint-Exupéry
+- "Journey Under the Midnight Sun" - Keigo Higashino
+- "Harry Potter" series - J.K. Rowling
+- "The Funeral of a Muslim" - Huo Da
+- "Leaving Home at Eighteen" - Yu Hua
+- "Chronicle of a Blood Merchant" - Yu Hua
+- "Cries in the Drizzle" - Yu Hua
+- "Ordinary World" - Lu Yao
+- "To Live" - Yu Hua
+- "Brothers" - Yu Hua
+- "The Devotion of Suspect X" - Keigo Higashino
+- "The Miracles of the Namiya General Store" - Keigo Higashino
+- "What Exactly is Game Theory" - Wan Weigang
+- "The Kite Runner" - Khaled Hosseini
+
+## 🎬 Movies
+### Favorite Movies
+- Movie 1
+- Movie 2
+- Movie 3
 
 <!-- <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks

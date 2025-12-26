@@ -12,11 +12,14 @@ main:
   - title: "Publications"
     url: "/en/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "Honors & Awards"
     url: "/en/#-honors-and-awards"
 
   - title: "Volunteer Services"
     url: "/en/#-volunteer-services"
+  
+  - title: "Interests & Hobbies"
+    url: "/en/#-interests-and-hobbies"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
