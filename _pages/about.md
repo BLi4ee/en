@@ -20,14 +20,16 @@ redirect_from:
 Hi, I am Boya Li, a Master's student at the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Associate Professor [Zhang Lin](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I graduated from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU) in 2019.
 
 
-My research interests include:
-- Wireless communications
-- Semantic-aware Communications
-- Task-oriented Communications
-- Deep reinforcement learning
-- Large Language Models
+<h3>Research Interests</h3>
+<ul>
+  <li>Wireless communications</li>
+  <li>Semantic-aware communications</li>
+  <li>Task-oriented communications</li>
+  <li>Deep reinforcement learning</li>
+  <li>Large Language Models</li>
+</ul>
 
-<p>I am actively seeking a PhD supervisor who is passionate about [your research field]. With a strong background in [your background, e.g., computer science, bioinformatics] and a keen interest in [specific research interests], I am eager to contribute to cutting-edge research in your group. Please feel free to reach out via email at <a href="mailto:liberty.in.ee@gmail.com">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
+<p>I am actively seeking a PhD supervisor who shares my research interests in the above areas. Please feel free to contact me at <a href="mailto:liberty.in.ee@gmail.com">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
