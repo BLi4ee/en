@@ -95,52 +95,24 @@ My research interests include:
 ## 🎿 Sports & Outdoor
 - **🎱Billiards** (since 2024)
 - **🏸Badminton** (since 2022)
-- **🧗Climbing** (since 2019)
 - **🏃Jogging** (since 2017) - 5km PB 26:24, 10km PB 57:22
 
-## 📚 Reading
-### In Progress
-- "Walden" - Henry David Thoreau
-- "The Gospel According to Jesus Christ" - José Saramago
-- "The Great Gatsby" - F. Scott Fitzgerald
 
-### Read
-- "We Three" - Yang Jiang
-- "My Altay" - Li Juan
-- "Fortress Besieged" - Qian Zhongshu
-- "Educated" - Tara Westover
-- "Old Days in the Southern Part of the City" - Lin Haiyin
-- "Feminism from Scratch" - Chizuko Ueno
-- "The Moon and Sixpence" - W. Somerset Maugham
-- "Snow and Ashes" - Zhang Tianyi
-- "Woman's Victory" - Yu Hua
-- "Blindness" - José Saramago
-- "Madame Bovary" - Gustave Flaubert
-- "Those Who Leave and Those Who Stay" - Elena Ferrante
-- "Flowers for Algernon" - Daniel Keyes
-- "The Story of a New Name" - Elena Ferrante
-- "The Story of the Lost Child" - Elena Ferrante
-- "Stories of the Sahara" - Sanmao
-- "The Little Prince" - Antoine de Saint-Exupéry
-- "Journey Under the Midnight Sun" - Keigo Higashino
-- "Harry Potter" series - J.K. Rowling
-- "The Funeral of a Muslim" - Huo Da
-- "Leaving Home at Eighteen" - Yu Hua
-- "Chronicle of a Blood Merchant" - Yu Hua
-- "Cries in the Drizzle" - Yu Hua
-- "Ordinary World" - Lu Yao
-- "To Live" - Yu Hua
-- "Brothers" - Yu Hua
-- "The Devotion of Suspect X" - Keigo Higashino
-- "The Miracles of the Namiya General Store" - Keigo Higashino
-- "What Exactly is Game Theory" - Wan Weigang
+## 📚 Reading
+### Favorite Books
+- "Fried Green Tomatoes at the Whistle Stop Cafe" - Fannie Flagg
 - "The Kite Runner" - Khaled Hosseini
+- "Cries in the Drizzle" - Yu Hua
+
 
 ## 🎬 Movies
 ### Favorite Movies
-- Movie 1
-- Movie 2
-- Movie 3
+- "Suffragette" (2015)
+- "The Young and Prodigious T.S. Spivet" (2013)
+- "The Invisible Guest" (2016)
+- "The Bucket List" (2007)
+- "It's a Wonderful Life" (1946)
+- "Robot Dreams" (2023)
 
 <!-- <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
