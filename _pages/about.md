@@ -35,7 +35,7 @@ My research interests include:
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *November 2022*: I began studying the "Linear Algebra" course taught by Professor MIT Strang Gilbert. Progress: Lesson 21/34 [Watch on Bilibili](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
+- *November 2022*: I began studying the "Linear Algebra" course taught by Professor W. Gilbert Strang at MIT. Progress: Lesson 21/34 [Watch on Bilibili](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
 - *September 2025*: I began studying the "Generative Artificial Intelligence" course taught by Professor Li Hongyi at National Taiwan University. Progress: Lesson 11/18 [Watch on Bilibili](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
 
 
