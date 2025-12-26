@@ -78,7 +78,7 @@ My research interests include:
 - *June 2023* Awarded Beijing Outstanding Graduate
 - *December 2022* Awarded Beijing "Three Good Student" Award
 - *December 2022* Awarded National Scholarship [[News]](https://www.btbu.edu.cn/news/zhxw/99a91ff6e441476da1173ec5e567de93.htm)
-- *December 2021* Awarded China Telecom Scholarship
+- *December 2022* Awarded China Telecom Scholarship
 - *November 2022* Awarded Second Prize in the 37th National Physics Competition for College Students in Some Regions
 
 
