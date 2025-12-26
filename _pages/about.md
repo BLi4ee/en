@@ -27,7 +27,7 @@ My research interests include:
 - Deep reinforcement learning
 - Large Language Models
 
-<p>I am actively seeking a PhD supervisor who shares my research interests in the above areas. Please feel free to contact me at <a href="mailto:liberty.in.ee@gmail.com">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
+<p style="color: red;">I am actively seeking a PhD supervisor who shares my research interests in the above areas. Please feel free to contact me at <a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
