@@ -27,6 +27,8 @@ My research interests include:
 - Deep reinforcement learning
 - Large Language Models
 
+<p>I am actively seeking a PhD supervisor who is passionate about [your research field]. With a strong background in [your background, e.g., computer science, bioinformatics] and a keen interest in [specific research interests], I am eager to contribute to cutting-edge research in your group. Please feel free to reach out via email at <a href="mailto:liberty.in.ee@gmail.com">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
+
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, Master's (Recommended for Admission)
