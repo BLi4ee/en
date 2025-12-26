@@ -95,6 +95,7 @@ My research interests include:
 ## 🎿 Sports & Outdoor
 - **Billiards** (since 2024)
 - **Badminton** (since 2022)
+- **Hiking** (since 2019)
 - **Jogging** (since 2017) - 5km PB 26:24, 10km PB 57:22
 
 
