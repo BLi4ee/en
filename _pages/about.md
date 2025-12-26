@@ -33,7 +33,7 @@ My research interests include:
 - *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, Bachelor's Degree
 
 
-<span class='anchor' id='news'></span>
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *November 2022*: I began studying the "Linear Algebra" course taught by Professor W. Gilbert Strang at MIT. Progress: Lesson 21/34 [Watch on Bilibili](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
 - *September 2025*: I began studying the "Generative Artificial Intelligence" course taught by Professor Li Hongyi at National Taiwan University. Progress: Lesson 11/18 [Watch on Bilibili](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
