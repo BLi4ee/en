@@ -92,7 +92,7 @@ My research interests include:
 - *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center): 69.5h
 
 <span class='anchor' id='-interests-and-hobbies'></span>
-# 🔆 Interests & Hobbies
+# 🔆 Interests and Hobbies
 
 ## 🎿 Sports and Outdoor
 - **Billiards** (since 2024)
