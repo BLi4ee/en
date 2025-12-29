@@ -47,6 +47,14 @@ My research interests include:
 
 ## 📝 Journal
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/TVT2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`B. Li` and X. Liu. Semantic-Aware Command and Control Transmission for Multi-UAVs. (Under review)  
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CL 2025</div><img src='images/CL2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
