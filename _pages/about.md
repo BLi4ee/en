@@ -125,6 +125,10 @@ My research interests include:
 - "It's a Wonderful Life" (1946)
 - "Robot Dreams" (2023)
 
+## 🎭 Musical Theatre
+### Favorite Musical
+- *Come From Away*
+
 <!-- <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
