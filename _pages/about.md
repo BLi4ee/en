@@ -31,8 +31,8 @@ My research interests include:
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, Master's (Recommended for Admission)
-- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, Bachelor's Degree
+- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, M.Phil.
+- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, B.Eng.
 
 
 <span class='anchor' id='-news'></span>
