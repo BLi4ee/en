@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-Hi, I am Boya Li, a Master's student at the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Associate Professor [Zhang Lin](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I graduated from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU) in 2019.
+Hi, I am Boya Li, a Master's student at the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Associate Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I graduated from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU) in 2019.
 
 
 My research interests include:
