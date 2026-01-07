@@ -60,7 +60,7 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	`B. Li`, L. Jia, L. Zhang, N. Qi, W. Tang and F. Adachi. Exploiting Large Language Models for Single-Channel Mix Source Separation in Anti-Jamming Wireless Communications. *IEEE Communications Letters*, vol. 30, pp. 422-426, 2026. (JCR:Q2; IF:4.4)  
-[[网页]](https://doi.org/10.1109/LCOMM.2025.3637306) [[预览]](https://github.com/BLi4ee/zh-cn/blob/master/pdf/Exploiting_Large_Language_Models_for_Single-Channel_Mix_Source_Separation_in_Anti-Jamming_Wireless_Communications.pdf)
+[[网页]](https://doi.org/10.1109/LCOMM.2025.3637306) [[预览]](https://github.com/BLi4ee/en/blob/master/pdf/Exploiting_Large_Language_Models_for_Single-Channel_Mix_Source_Separation_in_Anti-Jamming_Wireless_Communications.pdf)
 
 </div>
 </div>
