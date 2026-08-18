@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-Hi, I am Boya Li, a Master's student at the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Associate Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I graduated from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU) in 2019.
+Hi, I am Boya Li, currently a visiting student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my master's degree from the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I received my bachelor's degree from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU).
 
 
 My research interests include:
@@ -27,7 +27,7 @@ My research interests include:
 - Deep reinforcement learning
 - Large Language Models
 
-<p style="color: red;">I am actively seeking a PhD supervisor who shares my research interests in the above areas. Please feel free to contact me at <a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
+<p style="color: red;">I am actively seeking PhD opportunities related to the research areas above. Prospective supervisors are welcome to contact me at <a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
