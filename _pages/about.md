@@ -26,6 +26,7 @@ My research interests include:
 - Task-oriented Communications
 - Deep reinforcement learning
 - Large Language Models
+- Diffusion Models
 
 <p style="color: red;">I am actively seeking PhD opportunities related to the research areas above. Prospective supervisors are welcome to contact me at <a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
 
@@ -95,10 +96,10 @@ My research interests include:
 
 <span class='anchor' id='-volunteer-services'></span>
 # 🔆 Volunteer Services
-- *March 2022* Beijing 2022 Winter Olympic and Paralympic Games Volunteer Service (Served at the National Aquatics Center, Market Development): 254h
-- *October 2021* Beijing 2021 World Wheelchair Curling Championship Volunteer Service (Served at the National Aquatics Center, Market Development): 141.5h
-- *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China (Served at Chaoyang Park, Remote Assembly): 1h
-- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center): 69.5h
+- *March 2022* Beijing 2022 Winter Olympic and Paralympic Games Volunteer Service (Served at the National Aquatics Center, Market Development)
+- *October 2021* Beijing 2021 World Wheelchair Curling Championship Volunteer Service (Served at the National Aquatics Center, Market Development)
+- *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China (Served at Chaoyang Park, Remote Assembly)
+- *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center)
 
 {% comment %}
 <span class='anchor' id='-interests-and-hobbies'></span>
