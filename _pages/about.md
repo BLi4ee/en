@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-Hi, I am Boya Li, currently a visiting student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my M.S. degree from the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ), and my B.S. degree from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU).
+Hi, I am Boya Li, currently a visiting student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my M.Eng. degree from the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ), and my B.Eng. degree from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU).
 
 
 My research interests include:
@@ -32,8 +32,8 @@ My research interests include:
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, M.S.
-- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, B.S.
+- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, M.Eng.
+- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, B.Eng.
 
 
 <span class='anchor' id='-news'></span>
