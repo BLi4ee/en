@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 
-Hi, I am Boya Li, currently a visiting student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my master's degree from the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ). I received my bachelor's degree from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU).
+Hi, I am Boya Li, currently a visiting student at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). I received my M.S. degree from the National Key Laboratory of Communication Anti-jamming, University of Electronic Science and Technology of China (UESTC), under the supervision of Professor [Lin Zhang](https://scholar.google.com/citations?hl=en&user=711SenAAAAAJ), and my B.S. degree from the School of Artificial Intelligence, Beijing Technology and Business University (BTBU).
 
 
 My research interests include:
@@ -31,8 +31,8 @@ My research interests include:
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, M.Phil.
-- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, B.Eng.
+- *2023.09 - 2026.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="images/UESTC_logo.png" width="23pt"></a> University of Electronic Science and Technology of China (UESTC), Information and Communication Engineering, Chengdu, M.S.
+- *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> Beijing Technology and Business University (BTBU), Information Engineering, Beijing, B.S.
 
 
 <span class='anchor' id='-news'></span>
@@ -100,7 +100,7 @@ My research interests include:
 - *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China (Served at Chaoyang Park, Remote Assembly): 1h
 - *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center): 69.5h
 
-<span class='anchor' id='-interests-and-hobbies'></span>
+<!-- <span class='anchor' id='-interests-and-hobbies'></span>
 # 🔆 Interests and Hobbies
 
 ## 🎿 Sports and Outdoor
@@ -129,6 +129,7 @@ My research interests include:
 ## 🎭 Musical Theatre
 ### Favorite Musical
 - *Come From Away*
+-->
 
 <!-- <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
