@@ -100,7 +100,8 @@ My research interests include:
 - *September 2021* Volunteer Service for the 100th Anniversary of the Communist Party of China (Served at Chaoyang Park, Remote Assembly): 1h
 - *April 2021* Beijing Winter Sports Series Test Event Volunteer Service for Curling and Wheelchair Curling (Served at the National Aquatics Center, Venue Communication Center): 69.5h
 
-<!-- <span class='anchor' id='-interests-and-hobbies'></span>
+{% comment %}
+<span class='anchor' id='-interests-and-hobbies'></span>
 # 🔆 Interests and Hobbies
 
 ## 🎿 Sports and Outdoor
@@ -129,7 +130,7 @@ My research interests include:
 ## 🎭 Musical Theatre
 ### Favorite Musical
 - *Come From Away*
--->
+{% endcomment %}
 
 <!-- <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
