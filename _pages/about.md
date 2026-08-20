@@ -27,6 +27,7 @@ My research interests include:
 - Deep reinforcement learning
 - Large Language Models
 - Diffusion Models
+- Embodied Intelligence
 
 <p style="color: red;">I am actively seeking PhD opportunities related to the research areas above. Prospective supervisors are welcome to contact me at <a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a> to discuss potential opportunities.</p>
 
