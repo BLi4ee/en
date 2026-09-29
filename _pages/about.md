@@ -22,7 +22,6 @@ Hi, I am Boya Li, currently a visiting student at The Chinese University of Hong
 
 My research interests include:
 - Wireless communications
-- Semantic-aware Communications
 - Task-oriented Communications
 - Deep reinforcement learning
 - Large Language Models
